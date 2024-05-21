@@ -1,0 +1,13 @@
+[x]-01_variables.py: Declaración y uso de variables en Python.
+[x]-02_operators.py: Operadores en Python, como aritméticos, de comparación, lógicos, y de asignación.
+[x]-03_strings.py: Manipulación de cadenas de texto en Python.
+[x]-04_lists.py: Uso de listas, una colección ordenada y modificable de elementos.
+[x]-05_tuples.py: Trabajo con tuplas, una colección inmutable de elementos ordenados.
+[x]-06_sets.py: Utilización de conjuntos, una colección no ordenada y sin elementos duplicados.
+[x]-07_dicts.py: Manejo de diccionarios, una estructura de datos que almacena pares clave-valor.
+[x]-08_conditionals.py: Estructuras condicionales en Python, como if, elif y else.
+[x]-09_loops.py: Bucles en Python, incluyendo for y while, para iterar sobre secuencias de datos.
+[x]-10_functions.py: Creación y uso de funciones reutilizables en Python.
+[x]-11_exceptions.py: Manejo de excepciones para gestionar errores durante la ejecución del programa.
+[]-12_file.py: Entrada y salida de archivos para leer y escribir datos en archivos.
+[]-13_modules.py: Organización del código en módulos y paquetes para una mejor estructura y reutilización.

@@ -1,0 +1,25 @@
+ Python intermedio 
+14_list_comprehensions.py: Comprensiones de listas para crear listas de manera concisa.
+15_dict_comprehensions.py: Comprensiones de diccionarios para crear diccionarios de manera concisa.
+16_datetime.py: Manipulación de fechas y horas utilizando el módulo datetime.
+17_lambda_functions.py: Funciones lambda, funciones anónimas de una sola línea.
+18_command_line_arguments.py: Procesamiento de argumentos de línea de comandos utilizando el módulo argparse.
+1. **Manejo de Fechas y Tiempos**: Trabajar con objetos de fecha y hora, formatear y analizar fechas, calcular diferencias de tiempo y manejar zonas horarias.
+2. **Comprensión de Listas**: Utilizar listas de comprensión para crear listas de manera más concisa y elegante que usando bucles `for` tradicionales.
+3. **Funciones Lambda**: Explorar funciones anónimas de una sola línea que pueden tomar cualquier número de argumentos pero solo pueden tener una expresión. Se utilizan comúnmente en combinación con funciones como `map()`, `filter()` y `reduce()`.
+4. **Funciones de Orden Superior**: Aprender sobre las funciones que pueden aceptar otras funciones como argumentos o devolver funciones como resultado. Explorar conceptos como `map()`, `filter()`, `reduce()` y la creación de funciones que devuelven funciones.
+5. **Manejo de Errores y Excepciones**: Entender los tipos de errores en Python y cómo manejarlos utilizando declaraciones `try`, `except` y `finally` para manejar errores y excepciones de manera efectiva.
+6. **Manejo de Archivos**: Aprender a abrir, leer, escribir y cerrar archivos en Python. Trabajar con diferentes modos de apertura de archivos y manejar excepciones relacionadas con el manejo de archivos.
+7. **Expresiones Regulares**: Explorar patrones de búsqueda utilizados para encontrar coincidencias dentro de cadenas de texto. Aprender diferentes métodos y funciones en el módulo `re` para trabajar con expresiones regulares en Python.
+8. **Gestión de Paquetes**: Discutir sobre la gestión de paquetes en Python, con un enfoque en herramientas como pip (Python Package Installer). Aprender a instalar, actualizar y desinstalar paquetes de Python utilizando pip, así como a crear y distribuir tus propios paquetes de Python.
+9. **Programación Funcional**: Explorar conceptos como funciones puras, inmutabilidad, map, filter, reduce y recursión. Aprender a aplicar estos conceptos para escribir código más limpio y conciso.
+10. **Decoradores**: Utilizar decoradores para extender o modificar el comportamiento de las funciones y métodos en Python. Aprender a crear y aplicar decoradores para agregar funcionalidades adicionales a las funciones existentes.
+11. **Comprensión de Conjuntos y Diccionarios**: Utilizar comprensiones de conjuntos y diccionarios para crear conjuntos y diccionarios de manera concisa.
+12. **Generadores y Expresiones Generadoras**: Aprender a crear generadores y expresiones generadoras para generar secuencias de valores de manera eficiente.
+13. **Iteradores y Protocolo de Iteración**: Entender cómo funcionan los iteradores en Python y cómo implementar el protocolo de iteración para hacer que tus propios objetos sean iterables.
+14. **Context Managers (Administradores de Contexto)**: Aprender a trabajar con context managers para gestionar recursos de manera eficiente y garantizar la liberación adecuada de recursos cuando ya no son necesarios.
+15. **Programación Concurrente y Paralela**: Explorar técnicas de programación concurrente y paralela en Python, incluyendo hilos, procesos, asyncio y multiprocessing.
+16. **Testing y Desarrollo Guiado por Pruebas (TDD)**: Aprender cómo escribir pruebas unitarias y practicar el desarrollo guiado por pruebas para garantizar la calidad del código.
+17. **Manejo Avanzado de Cadenas de Texto**: Explorar técnicas avanzadas para el manejo de cadenas de texto en Python, incluyendo formatos de cadena, métodos de manipulación de cadenas, expresiones regulares avanzadas y codificación de caracteres.
+18. **Manejo Avanzado de Estructuras de Datos**: Explorar técnicas avanzadas para trabajar con estructuras de datos en Python, como comprensiones de diccionarios, métodos de diccionarios y conjuntos, operaciones avanzadas de listas y manipulación de tuplas.
+

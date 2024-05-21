@@ -1,0 +1,13 @@
+{
+    "nombre": "Juan"
+    "edad": 40
+    "intereses": [
+        "Python"
+        "Programaci\u00f3n"
+        "Data Science"
+    ]
+    "contacto": {
+        "email": "juan@example.com"
+        "telefono": "123456789"
+    }
+}

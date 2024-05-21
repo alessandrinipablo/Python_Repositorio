@@ -1,0 +1,33 @@
+Programación Orientada a Objetos en Python
+
+1. **Clases y objetos**: Definición de clases para modelar entidades y la creación de objetos a partir de esas clases.
+2. **Atributos y métodos**: Definición de atributos para almacenar datos y métodos para realizar operaciones en los objetos.
+3. **Encapsulación**: Ocultamiento de los detalles internos de una clase y acceso controlado a los datos mediante métodos.
+4. **Herencia**: Creación de nuevas clases basadas en clases existentes para compartir y extender funcionalidades.
+5. **Polimorfismo**: Capacidad de distintos objetos de responder al mismo mensaje de diferentes maneras.
+6. **Abstracción**: Ocultamiento de la complejidad innecesaria y presentación de solo los detalles esenciales.
+7. **Métodos especiales (dunder methods)**: Definición de métodos especiales para implementar comportamientos específicos de los objetos, como `__init__`, `__str__`, `__repr__`, etc.
+8. **Decoradores de clases**: Utilización de decoradores para extender o modificar el comportamiento de los métodos de una clase.
+9. **Propiedades y métodos estáticos**: Definición de propiedades y métodos que pertenecen a la clase en lugar de a instancias individuales.
+10. **Métodos de clase**: Definición de métodos que operan en la clase en su conjunto, en lugar de en instancias individuales.
+11. **Herencia múltiple y Mixins**: Utilización de herencia múltiple y mixins para reutilizar código y construir jerarquías de clases más complejas.
+12. **Encadenamiento de métodos (Method chaining)**: Diseño de clases y métodos que permiten encadenar múltiples llamadas de método en una sola expresión.
+13. **Desventajas de NO usar POO**: Discusión sobre los problemas y desventajas de no utilizar el paradigma de la Programación Orientada a Objetos en el desarrollo de software.
+14. **Herencia múltiple**: La capacidad de una clase de heredar comportamientos y características de múltiples clases padres.
+15. **MRO (Method Resolution Order)**: El orden en que se buscan los métodos en las clases base durante la resolución de métodos en una clase derivada.
+16. **Setters y Getters**: Métodos especiales utilizados para establecer (setters) y obtener (getters) los valores de los atributos de un objeto.
+17. **Decoradores y Decorador @Property**: Funciones que modifican o extienden el comportamiento de otras funciones o métodos, y el uso del decorador `@property` para definir propiedades en una clase.
+18. **Abstracción**: Ocultamiento de la complejidad innecesaria y presentación de solo los detalles esenciales en el diseño de una interfaz.
+19. **Clases abstractas**: Clases que no pueden ser instanciadas directamente y se utilizan como plantillas para otras clases.
+20. **Métodos especiales (o dunder)**: Métodos predefinidos en Python que se invocan automáticamente en ciertas situaciones.
+21. **Entendiendo SOLID**: Discusión sobre los cinco principios de diseño de software SOLID: SRP, OCP, LSP, ISP y DIP.+
+22. **Patrones de Diseño**: Exploración de soluciones probadas para problemas comunes de diseño de software, como Singleton, Factory, Observer, Strategy, entre otros.
+23. **Manejo de Excepciones Avanzado**: Profundización en técnicas avanzadas de manejo de excepciones, como el uso de context managers (`with` statement) y el diseño de excepciones personalizadas.
+24. **Testing y TDD (Test-Driven Development)**: Aprendizaje sobre cómo escribir pruebas unitarias y practicar el desarrollo guiado por pruebas para garantizar la calidad del código.
+25. **Refactorización y Mejora de Código**: Exploración de técnicas de refactorización para mejorar la legibilidad, la eficiencia y la mantenibilidad del código.
+26. **Programación Funcional y POO**: Investigación sobre cómo combinar los principios de la programación funcional con la programación orientada a objetos para escribir código más limpio y expresivo.
+27. **Diseño de Interfaces Gráficas (GUI)**: Aprendizaje sobre el diseño y desarrollo de interfaces gráficas de usuario utilizando bibliotecas como Tkinter, PyQt o Kivy, integrando principios de POO en el diseño de la interfaz.
+28. **Persistencia de Datos**: Exploración de diferentes enfoques para el almacenamiento y la recuperación de datos en aplicaciones orientadas a objetos, como el uso de bases de datos relacionales, bases de datos NoSQL o almacenamiento en archivos.
+
+
+
